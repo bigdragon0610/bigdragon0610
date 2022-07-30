@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bigdragon0610/bigdragon0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ryudai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigdragon0610&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigdragon0610&layout=compact&theme=react&hide=html,css,cmake,hack)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bigdragon0610&repo=react-todo&theme=react)](https://github.com/bigdragon0610/react-todo)
