@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigdragon0610&layout=compact&theme=react&hide=html,css,cmake,hack" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigdragon0610&layout=compact&theme=react&hide=html,css,cmake,hack,Makefile" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bigdragon0610&rank=-?&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
